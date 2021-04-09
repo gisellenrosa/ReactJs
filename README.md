@@ -19,7 +19,7 @@
 ### Pré-requisitos
 
 Antes de começar, você precisa ter instalado em sua máquina: [Git](https://gitforwindows.org/) e [Node.js](https://nodejs.org/en/).
-Além disso, você precisa ter um bom editor de código, como [VSCode](https://code.visualstudio.com/), mas se quiser simplificar também pode acessar o [CodeSandBox](https://codesandbox.io/) iniciar um projeto e importar através deste link do github :).
+Além disso, você precisa ter um bom editor de código, como [VSCode](https://code.visualstudio.com/), mas se quiser simplificar também pode acessar o [CodeSandBox](https://codesandbox.io/) iniciar um projeto e importar através deste link do github https://github.com/gisellenrosa/ReactJs :).
 
 ### Tecnologias
 
