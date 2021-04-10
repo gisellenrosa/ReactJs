@@ -1,10 +1,14 @@
 
 import React from 'react';
-
-
-// import { Container } from './styles';
+import Nav from '../../components/Nav'
 
 export default  function Home() {
-  return <h1> Caramba funcionou!</h1>
+  return (
+    <div>
+        <Nav/>
+        <h1> Caramba funcionou!</h1>
+    </div>
+    
+  );
 }
 
